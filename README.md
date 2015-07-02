@@ -1,3 +1,3 @@
 # django-girls-tutorial
 
-First comment!
+This is my django tutorial
